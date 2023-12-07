@@ -1,0 +1,84 @@
+Cyclone xTreme
+by Kranium
+
+based on:
+
+Fruit 2.1 by Fabien Letouzey
+Toga II by Thomas Gaksch
+Grapefruit 1.0 by Vadim Demichev
+Toga CMLX 145e4 by Teemu Pudas
+Cyclone 3.4 by Norman Schmidt
+
+Please check your cyclone xTreme.exe timestamp in order to obtain the newest
+version. if you have a executable older than Sep 19, please download the
+package again...
+
+the most recent executable is timestamped: Sep 19 2009 23:33:19
+
+Legal details
+-------------
+This program is free software; you can redistribute it and/or modify it
+under the terms of the GNU General Public License version 3 as published
+by the Free Software Foundation.
+
+This program is distributed in the hope that it will be useful but
+WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not write to the Free Software Foundation
+Inc. 59 Temple Place Suite 330 Boston MA 02111-1307 USA
+
+See the file "copying.txt" for details.
+
+General
+-------
+Cyclone xTreme is a very strong UCI chess engine based on Fruit 2.1,
+Toga II 14beta5c, Grapefruit 1.0, Toga CMLX 145e4, and Cyclone 3.4 that plays
+Fischer Random Chess (also known as Chess 960).
+
+This release comes with an Intel compiled PGO Windows executable and Windows
+compatible source code.
+
+Description:
+---------------------------------
+Cyclone xTreme plays normal chess as well as Fischer Random Chess (Chess 960)
+To play Fischer Random, enable UCI option UCI_Chess960
+
+Cyclone xTreme uses a configuration file (Cyclone.cfg) to obtain more than 140
+eval, material, and search parameters.
+
+The program will write a default configuration file...just type 'default'
+at the command prompt....the chess engine should play very strong utilizing
+this default configuration.
+
+Want to experiment? Roll the dice, try your luck by typing 'random' at the
+command prompt.  A new Cyclone.cfg will be written using random values.
+(these values are reasonable and within a set range, yet are relatively broad
+in scope, the possibilities are endless...)
+
+To widen or narrow the random range of each parameter requires editing the
+source code.
+
+WARNING: any existing Cyclone.cfg file that may exist in the current
+directory will be overwritten. (if you have a good one, please save it
+in another location before generating a new Cyclone.cfg file.)
+
+WARNING: using a random Cyclone.cfg file will very likely weaken the
+engine significantly. this option is provided for experimental tuning
+and testing (and most of all fun and amusement!) purposes only.
+
+The Cyclone.cfg file can also be manually edited...using any (plain text)
+word processor...Wordpad, Notepad, vi, etc.
+---------------------------------------------------------------------
+
+for more info on cyclone xTreme, including info on configuration parameters:
+http://www.chesslogik.com/
+
+Best Regards-
+kranium@telenet.be
+
+
+
+
