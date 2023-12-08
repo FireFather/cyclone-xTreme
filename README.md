@@ -4,13 +4,11 @@ The original UCI chess engine from 2009
 ![alt tag](https://raw.githubusercontent.com/FireFather/cyclone-xTreme/master/cyclone_banner.jpg)
 
 
-based on:
-- Fruit 2.1 by Fabien Letouzey
-- Toga II by Thomas Gaksch
-- Grapefruit 1.0 by Vadim Demichev
-- Toga CMLX 145e4 by Teemu Pudas
+- based on:
+Fruit 2.1 by Fabien Letouzey, Toga II by Thomas Gaksch, Grapefruit 1.0 by Vadim Demichev, & Toga CMLX 145e4 by Teemu Pudas
 
 
+## features:
 - Cyclone xTreme plays normal chess as well as Fischer Random Chess (Chess 960).
 To play Fischer Random, enable UCI option UCI_Chess960.
 
