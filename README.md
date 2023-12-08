@@ -1,7 +1,7 @@
 # cyclone-xTreme
 The original UCI chess engine from 2009 
 
-![alt tag](https://raw.githubusercontent.com/FireFather/cyclone-xTreme/master/cyclone_banner.jpg)
+![alt tag](https://raw.githubusercontent.com/FireFather/cyclone-xTreme/master/src/cyclone_banner.jpg)
 
 
 - based on:
